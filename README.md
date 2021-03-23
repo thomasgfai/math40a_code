@@ -2,7 +2,7 @@ Brandeis Math 40a: Code Examples
 =======================================
 Brandeis Math 40a is an undergraduate course the provides a broad overview of applied mathematics.
 
-This Git repository contains example codes from the course. The codes are
+This repository contains example codes from the course. The codes are
 primarily written in Python, and make use of several commonly-used libraries
 
 - NumPy for numerical linear algebra (www.numpy.org)
